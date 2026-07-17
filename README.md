@@ -92,13 +92,19 @@ Rather than providing a one-size-fits-all solution, the methodology adapts forec
 ## Repository Structure
 
 
-Inventory Optimization Case Study/
-  Case_Study/
-     Inventory_Optimization_Report.pdf
-  Deliverables/
-     Inventory_Optimization_Results.xlsx
-  Images/
-  README.md
+```text
+inventory-optimization-case-study/
+│
+├── Case_Study/
+│   └── Inventory_Optimization_Report.pdf
+│
+├── Deliverables/
+│   └── Inventory_Optimization_Results.xlsx
+│
+├── Images/
+│
+└── README.md
+```
 
 
 
