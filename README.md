@@ -1,5 +1,9 @@
 # Inventory Optimization Consulting Case Study
 
+<p align="center">
+  <img src="./Images/Cover.png" width="850">
+</p>
+
 ## Project Overview
 
 This repository presents a fictional inventory optimization consulting engagement developed to demonstrate a complete, data-driven methodology for improving inventory management and replenishment decisions.
@@ -8,6 +12,9 @@ The case study simulates a wholesale distributor experiencing stock imbalances, 
 
 Although the case study uses fictional data created exclusively for demonstration purposes, the methodology, analytical approach, and consulting deliverables reflect the structure of a real-world inventory optimization engagement.
 
+<p align="center">
+  <img src="./Images/Methodology.png" width="750">
+</p>
 
 ## Business Problem
 
@@ -75,7 +82,9 @@ The analysis produced the following high-level findings:
 
 Rather than providing a one-size-fits-all solution, the methodology adapts forecasting and inventory policies to the characteristics of each SKU, supporting more informed operational decisions.
 
-
+<p align="center">
+  <img src="./Images/Executive_Summary.png" width="850">
+</p>
 
 ## Tools and Technologies:
 
