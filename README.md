@@ -1,6 +1,6 @@
 # Inventory Optimization Consulting Case Study
 
-## About this case of study
+## About this case study
 
 End-to-end inventory optimization consulting case study demonstrating demand analysis, forecasting, inventory policy design, and executive reporting for a fictional wholesale distributor. This case study was developed as part of a professional consulting portfolio to demonstrate the methodology and deliverables used in inventory optimization projects for manufacturing, wholesale and distribution companies.
 
